@@ -33,3 +33,8 @@ Runs your app in development mode.
 Like `npm start`, but also attempts to open your app in the iOS Simulator if you're on a Mac and have it installed.
 
 #### `npm run android`
+
+## Tech Stack
+* React Native
+* JavaScript
+* Expo
